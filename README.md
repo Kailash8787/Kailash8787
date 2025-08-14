@@ -16,7 +16,7 @@ I’m committed to Learning Full Stack Development, aiming to be a DevOps Engine
 * Staying up-to-date with modern development trends
 
 I aim to merge my tech skills with creativity to bring meaningful visual stories to life.
- 📬 Contact Me
+ 📬 Contact me
 
 📧 Email: [panthakailash0806@gmail.com](mailto:panthakailash0806@gmail.com)
 📸 Instagram: [@kailashp\_1](https://www.instagram.com/kailashp_1/)
