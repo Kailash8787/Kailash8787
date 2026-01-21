@@ -9,7 +9,7 @@ I’m **Kailash Pantha** — a passionate creative professional skilled in Graph
 
 
  🌱 Future Learning Goals
-I’m committed to Learning Full Stack Development, aiming to be a DevOps Engineer.
+I’m committed to learning Quality Assurance and growing as a QA Engineer.
 * Completing structured online courses & certifications
 * Building real-world projects
 * Collaborating with developers & open-source communities
