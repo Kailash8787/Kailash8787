@@ -1,7 +1,7 @@
 
 ### 👋 About Me
 
-I’m **Kailash Pantha** — a passionate creative professional skilled in Graphic Design, Video Editing, and Photography.
+I’m **Kailash Pantha** - a passionate creative professional skilled in Graphic Design, Video Editing, and Photography.
 
 * 📸 Nature explorer & documentary enthusiast
 * 🎓 Certified UI/UX Designer
